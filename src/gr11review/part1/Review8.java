@@ -6,7 +6,7 @@ public class Review8 {
 
         int MaxNumber = 8;
         int MinNumber = 1;
-        int Range = MaxNumber - Min + 1;
+        int Range = MaxNumber - MinNumber + 1;
         int pick1;
         int pick2;
         int pick3;
